@@ -67,6 +67,7 @@ Development followed the feature-branch workflow taught in class:
 
 ## Assignment
 
+Jia Cheng Zhao
 CSCI 39548 – Practical Web Development, Summer 2026  
 Instructor: Sourya Saha  
 Assignment 3 – Reading Tracker (React + Tailwind)
